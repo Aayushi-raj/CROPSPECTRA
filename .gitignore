@@ -1,0 +1,38 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Large datasets (Over 1 GB - excluded from Git)
+DATASET/
+*.zip
+*.tar.gz
+*.rar
+*.7z
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE / Editor folders
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# System & OS files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Log files
+*.log

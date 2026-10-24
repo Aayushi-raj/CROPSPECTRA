@@ -1,0 +1,16 @@
+CROPSPECTRA MobileNetV3 Training Summary
+Total Epochs: 3
+Best Validation Accuracy: 93.37%
+
+                       precision    recall  f1-score   support
+
+bacterial_leaf_blight     1.0000    0.9432    0.9708        88
+           brown_spot     0.9125    0.8295    0.8690        88
+              healthy     0.9444    0.9659    0.9551        88
+           leaf_blast     0.8020    0.9205    0.8571        88
+           leaf_scald     0.9778    1.0000    0.9888        88
+    narrow_brown_spot     0.9881    0.9432    0.9651        88
+
+             accuracy                         0.9337       528
+            macro avg     0.9375    0.9337    0.9343       528
+         weighted avg     0.9375    0.9337    0.9343       528

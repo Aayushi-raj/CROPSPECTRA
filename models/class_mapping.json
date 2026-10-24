@@ -1,0 +1,26 @@
+{
+    "classes": [
+        "bacterial_leaf_blight",
+        "brown_spot",
+        "healthy",
+        "leaf_blast",
+        "leaf_scald",
+        "narrow_brown_spot"
+    ],
+    "class_to_idx": {
+        "bacterial_leaf_blight": 0,
+        "brown_spot": 1,
+        "healthy": 2,
+        "leaf_blast": 3,
+        "leaf_scald": 4,
+        "narrow_brown_spot": 5
+    },
+    "idx_to_class": {
+        "0": "bacterial_leaf_blight",
+        "1": "brown_spot",
+        "2": "healthy",
+        "3": "leaf_blast",
+        "4": "leaf_scald",
+        "5": "narrow_brown_spot"
+    }
+}
